@@ -1,13 +1,26 @@
 #M8{
     position: fixed;
     height: 400px;
-    top: 200px;
-    left: 75px;
+    top: 400px;
+    left: 350px;
 }
 
 #Answers{
     position: fixed;
     font-family: fantasy;
     font-size: larger;
-    color: blueviolet;
+    color: rgb(155, 5, 5);
+}
+
+h2{
+    color: blue;
+    font-family: cursive;
+}
+
+button{
+    background-color: rgb(63, 52, 52);
+    height: 50px;
+    color: silver;
+    font-family: fantasy;
+    border: 1px blue;
 }
