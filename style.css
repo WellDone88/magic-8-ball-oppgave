@@ -1,8 +1,12 @@
+body{
+    background-color: rgb(172, 127, 255);
+}
+
 #M8{
     position: fixed;
     height: 400px;
-    top: 400px;
-    left: 350px;
+    top: 250px;
+    left: 50px;
 }
 
 #Answers{
@@ -18,9 +22,10 @@ h2{
 }
 
 button{
-    background-color: rgb(63, 52, 52);
+    background-color: rgb(61, 53, 41);
     height: 50px;
-    color: silver;
+    color: red;
     font-family: fantasy;
-    border: 1px blue;
+    font-size: medium;
+    border: 2px solid rgb(97, 97, 100); 
 }
