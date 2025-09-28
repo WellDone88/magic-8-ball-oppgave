@@ -12,7 +12,7 @@ body{
 #Answers{
     position: fixed;
     top: 500px;
-    left: 180px;
+    left: 175px;
     font-family: fantasy;
     font-size: medium;
     color: rgb(155, 5, 5);
@@ -31,6 +31,6 @@ button{
     height: 50px;
     color: rgb(196, 132, 132);
     font-family: fantasy;
-    font-size: medium;
+    font-size: large;
     border: 2px solid rgb(97, 97, 100); 
 }
