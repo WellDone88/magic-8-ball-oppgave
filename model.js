@@ -8,6 +8,6 @@ let magicArray =
     'ja',
     'Dra til nærbutikken', 
     'Legg deg tidlig i kveld', 
-    'Nytt en kald øl',
+    'Nyt en kald øl',
     'Vær spontan',
     'Nei'];
