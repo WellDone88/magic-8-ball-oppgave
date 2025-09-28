@@ -11,9 +11,10 @@ body{
 }
 
 #Answers{
+    display: flex;
     position: fixed;
     top: 650px;
-    left: 250px;
+    left: 200px;
     font-family: fantasy;
     font-size: large;
     color: rgb(155, 5, 5);
