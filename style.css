@@ -4,17 +4,16 @@ body{
 
 #M8{
     position: fixed;
-    height: 600px;
+    height: 500px;
     max-width: 100%;
     max-height: 100%;
     top: 250px;
 }
 
 #Answers{
-    display: flex;
     position: fixed;
-    top: 650px;
-    left: 200px;
+    top: 62%;
+    left: 180px;
     font-family: fantasy;
     font-size: large;
     color: rgb(155, 5, 5);
