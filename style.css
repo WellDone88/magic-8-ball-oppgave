@@ -3,25 +3,22 @@ body{
 }
 
 #M8{
-    display: flex;
     position: fixed;
-    height: 400px;
+    height: 600px;
     top: 250px;
     left: 50px;
 }
 
 #Answers{
-    display: flex;
     position: fixed;
-    top: 500px;
-    left: 175px;
+    top: 650px;
+    left: 270px;
     font-family: fantasy;
-    font-size: medium;
+    font-size: large;
     color: rgb(155, 5, 5);
 }
 
 h2{
-    display: flex;
     color: blue;
     font-family: cursive;
 }
