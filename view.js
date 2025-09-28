@@ -4,7 +4,7 @@ let HTML = document.getElementById("app").innerHTML = /*HTML*/ `
 <h2>Still et spørsmål høyt og trykk på spå knappen</h2>
 <!-- Bakgrunnsmusikk som fungerer ved play -->
     <audio src="Magic Escape Room.mp3" controls></audio> 
-<button onclick="TellFortune()"> Spå meg</button>
+<button onclick="TellFortune()">Spå meg</button>
 <p id="Answers"><p>
 
 

@@ -6,13 +6,12 @@ body{
     position: fixed;
     height: 600px;
     top: 250px;
-    left: 50px;
 }
 
 #Answers{
     position: fixed;
     top: 650px;
-    left: 270px;
+    left: 250px;
     font-family: fantasy;
     font-size: large;
     color: rgb(155, 5, 5);
